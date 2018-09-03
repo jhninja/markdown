@@ -31,3 +31,8 @@ Content in the first column | Content in the second column
 def foo():
     if not bar:
         return True
+
+
+I think you should use an
+`<addr>` element here instead.
+
