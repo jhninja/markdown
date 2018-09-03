@@ -4,3 +4,4 @@ It's very easy to make some words **bold** and other words *italic* with Markdow
 
 이모지 사용 :smile:
 
+~~this~~ 
