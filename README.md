@@ -82,6 +82,7 @@ _You **can** combine them_
     }
     
     
+    
     ```javascript
 function fancyAlert(arg) {
   if(arg) {
