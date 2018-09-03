@@ -74,3 +74,18 @@ _You **can** combine them_
 # This is an <h1> tag
 ## This is an <h2> tag
 ###### This is an <h6> tag
+
+    function fancyAlert(arg) {
+      if(arg) {
+        $.facebox({div:'#foo'})
+      }
+    }
+    
+    
+    ```javascript
+function fancyAlert(arg) {
+  if(arg) {
+    $.facebox({div:'#foo'})
+  }
+}
+```
