@@ -26,9 +26,8 @@ Content in the first column | Content in the second column
 - [ ] this is an incomplete item
  할것 
 
+파이선 
 
 def foo():
     if not bar:
         return True
-        
-        파이선 
